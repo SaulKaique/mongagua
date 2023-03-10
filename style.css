@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Tilt+Prism&family=Vollkorn:wght@500&display=swap);
+
+body{
+
+background-image: url(imagens/g_55_3_1_26102021153405.jpeg);
+background-size: cover;
+}
+
+
+h1{
+
+text-align: center;
+background-color: #654725;
+font-size: 5em;
+font-family: 'Tilt Prism', cursive;
+}
+
+#teste{
+    font-family: 'Vollkorn', serif;
+    font-size: 2.5em;
+    text-align: right;
+}
+ 
+
+
+
